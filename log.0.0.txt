@@ -1,0 +1,43 @@
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: Начало main, создаем лист с типизацией Integers
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: присваиваем лист Integers листу без типипзации
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: присваиваем лист без типипзации листу строк
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+WARNING: добавляем строку "бла бла" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+WARNING: добавляем строку "бла 23" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+WARNING: добавляем строку "бла 34" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: выводим все элементы листа с типизацией Integers в консоль
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: Размер равен 3
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+INFO: Получим первый элемент
+июн 13, 2021 9:01:58 AM com.AWT.Main main
+WARNING: что-то пошло не так
+java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+	at com.AWT.Main.main(Main.java:45)
+
+июн 13, 2021 9:03:19 AM com.AWT.Main main
+INFO: Начало main, создаем лист с типизацией Integers
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: присваиваем лист Integers листу без типипзации
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: присваиваем лист без типипзации листу строк
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+WARNING: добавляем строку "бла бла" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+WARNING: добавляем строку "бла 23" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+WARNING: добавляем строку "бла 34" в наш переприсвоенный лист, возможна ошибка
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: выводим все элементы листа с типизацией Integers в консоль
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: Размер равен 4
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: Получим первый элемент
+июн 13, 2021 9:03:20 AM com.AWT.Main main
+INFO: выведем его в консоль
